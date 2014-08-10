@@ -14,7 +14,7 @@ This site is an experimentation with, and application of:
 - [Owl carouse][^owlcarouse]
 - [Foundation][^foundation]
 - [Google Maps][^gmaps]
-- [font Awesome][^fontawesome]
+- [Font Awesome][^fontawesome]
 
 [^owlcarouse]: http://www.owlgraphic.com/owlcarousel
 [^foundation]: http://foundation.zurb.com/develop/download.html
