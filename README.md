@@ -1,6 +1,6 @@
 # Portfolio Website (Timea Toth)
 
-This code provides the website code for Timea Toth's website which is desgined with an interactive UI for desktop, tablet and other mobile devices. 
+This code provides the website code for Timea Toth's makeup portfolio website which is desgined with an interactive UI for desktop, tablet and other mobile devices. 
 
 ## Install
 -------
