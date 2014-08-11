@@ -3,10 +3,9 @@
 This code provides the website code for Timea Toth's makeup portfolio website which is desgined with an interactive UI for desktop, tablet and other mobile devices. 
 
 ## Install
--------
 Copy into web service directory (e.g /var/www) and that's it! No server side code here.
 
-###Technologies
+## Technologies
 This site is an experimentation with, and application of:
 
 - [HTML Geolocation][^html5]
@@ -24,7 +23,7 @@ This site is an experimentation with, and application of:
 [^HTML5]: http://www.w3schools.com/html/html5_geolocation.asp
 
 
-##Other development notes
+## Other development notes
 - All photo images were saved using JPEG quality setting of 50-70% depending on the photo.
 - Logos and other graphic elements are saved as PNG
 - CSS was minified using http://cssminifier.com/
@@ -38,6 +37,6 @@ jQuery is used for advanced CSS and HTML
 - The foundation library was used for Buttons CSS, Offcanvas hamburger menu for mobile and the Magellan expedition for tablet and desktop slide menu.
 - Owl carouse 1.3.2 javascript library was used for the image slider. The CSS and JS library for this were download from l  and install into the CSS and JS folders.
 
-##Licence
+## Licence
 This project is under GPLv3, except where otherwise specified.
 
